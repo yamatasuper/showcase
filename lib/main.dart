@@ -4,7 +4,7 @@ import 'package:provider/provider.dart';
 import 'package:showcase/app/domains/providers/films_provider.dart';
 import 'package:showcase/app/l10n/app_localizations.dart';
 import 'package:showcase/app/l10n/l10n.dart';
-import 'package:showcase/app/router/router.dart';
+import 'package:showcase/app/navigation/router/router.dart';
 import 'package:showcase/presentation/bloc/films_bloc.dart';
 
 const String hiveBox = 'history';

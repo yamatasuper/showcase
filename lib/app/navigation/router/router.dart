@@ -1,5 +1,5 @@
 import 'package:auto_route/auto_route.dart';
-import 'package:showcase/presentation/ui/widgets/films_page.dart';
+import 'package:showcase/presentation/ui/films_page.dart';
 
 part 'router.gr.dart';
 
