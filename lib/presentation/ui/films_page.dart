@@ -86,7 +86,7 @@ class FootballPageState extends State<FilmPage> {
         },
         child: Text(
           l10n.search,
-          style: AppTextStyles.s34w500.copyWith(
+          style: AppTextStyles.s22w500.copyWith(
             color: AppColorsLight.primary,
           ),
         ),

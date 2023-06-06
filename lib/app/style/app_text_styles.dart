@@ -6,4 +6,10 @@ class AppTextStyles {
     fontWeight: FontWeight.w500,
     fontFamily: 'GolosText',
   );
+
+  static const TextStyle s22w500 = TextStyle(
+    fontSize: 22,
+    fontWeight: FontWeight.w500,
+    fontFamily: 'GolosText',
+  );
 }
